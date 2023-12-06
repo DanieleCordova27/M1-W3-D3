@@ -1,0 +1,10 @@
+.done {
+    text-decoration: line-through;
+};
+body {
+    text-align: center;
+};
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
